@@ -1,4 +1,5 @@
 %{
+  "ecstatic": {:git, "https://github.com/ecstatic-framework/ecstatic.git", "58bbd59863388cb0d9e6de8775bfe4336b61da2f", []},
   "gen_stage": {:hex, :gen_stage, "0.12.2", "e0e347cbb1ceb5f4e68a526aec4d64b54ad721f0a8b30aa9d28e0ad749419cbb", [:mix], [], "hexpm"},
   "uuid": {:hex, :uuid, "1.1.8", "e22fc04499de0de3ed1116b770c7737779f226ceefa0badb3592e64d5cfb4eb9", [:mix], [], "hexpm"},
 }
